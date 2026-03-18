@@ -293,3 +293,5 @@ C:\BISTASOL\ASP.NET\Rocky\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
 C:\BISTASOL\ASP.NET\Rocky\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
 C:\BISTASOL\ASP.NET\Rocky\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
 C:\BISTASOL\ASP.NET\Rocky\WebApplication1\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\BISTASOL\ASP.NET\Rocky\WebApplication1\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\BISTASOL\ASP.NET\Rocky\WebApplication1\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
